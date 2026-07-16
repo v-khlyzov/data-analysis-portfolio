@@ -27,3 +27,12 @@
 <img width="1760" height="416" alt="VBA-separate-table-to-files" src="https://github.com/user-attachments/assets/3177e20f-de6f-43ee-9507-9da0e9239f61" />
 
 Скрипты и видео-демонстрация работы макроса опубликованы [в репозитории проекта](https://github.com/v-khlyzov/separate-table-to-files.git)
+
+
+## [Проект 4: ABC-XYZ анализ ассортимента для определения стратегии управления запасами](https://github.com/v-khlyzov/abc-xyz-analysis.git)
+
+Суть анализа - показать, как на основании истории продаж разделить ассортимент по приоритетам и определить разные стратегии управления запасами.
+
+<img width="1091" height="467" alt="abc_xyz" src="https://github.com/user-attachments/assets/ffedff08-bc6e-4df3-9820-1f8a973b999f" />
+
+Файл с расчетом опубликован [в репозитории проекта](https://github.com/v-khlyzov/abc-xyz-analysis.git)
